@@ -49,6 +49,6 @@ HackSwjtu 对于 `运动校园世界` app 的 Session 注入脚本。可实现�
 
 > **冬瓜** 出品
 
-西南交通大学形式与政策课程刷学时 chrome 插件。可听过无需验证码填写计时录入功能。
+西南交通大学形式与政策课程刷学时 chrome 插件。提供无需验证码填写计时录入功能。
 
 相关链接：[HackSwjtuXZ v1.0](https://github.com/HackSwjtu/HackSwjtuXZ)
