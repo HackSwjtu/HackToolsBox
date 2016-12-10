@@ -1,0 +1,13 @@
+# Site settings
+title: SWJTU tools box
+tag_text: SWJTU tools box
+description: 西南交大非官方工具一览
+url: ""
+baseurl: ""
+
+font-awesome-include: true # make this false if you don't need font-awesome
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
